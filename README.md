@@ -10,7 +10,7 @@ Demo : [https://axcora.my.id/bludit/grunge/](https://axcora.my.id/bludit/grunge/
 
 Documentation : [https://axcora.my.id/bludit/grunge/documentation](https://axcora.my.id/bludit/grunge/documentation)
 
-If you need built simple fast website with flatfile cms [hire me](https://www.fiverr.com/creativitas/design-your-website-with-phyton-django)
+If you need built simple fast website with flatfile cms [hire me →](https://www.fiverr.com/creativitas/design-your-website-with-phyton-django)
 
 --------
 
@@ -25,4 +25,4 @@ Demo : [https://axcora.my.id/bludit/grunge/](https://axcora.my.id/bludit/grunge/
 
 Documentation : [https://axcora.my.id/bludit/grunge/documentation](https://axcora.my.id/bludit/grunge/documentation)
 
-If you need built simple fast website with flatfile cms [hire me](https://www.fiverr.com/creativitas/design-your-website-with-phyton-django)
+If you need built simple fast website with flatfile cms [hire me →](https://www.fiverr.com/creativitas/design-your-website-with-phyton-django)
