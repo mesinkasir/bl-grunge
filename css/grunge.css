@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+body {font-family: 'Gloria Hallelujah', cursive; background-color:#f2d131; font-size: 24px;}
+.home {
+background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM2AHBcz8jklYcC0Me5AgzVfut3cMZBbsMNWV1s0Zc8VacDad9SqoXFAgOf0a3q8XyhH_b47--XwT59vhSdvjNdyQszVuQerVorKLJ9m0xVPujG5OOt-KGKNjYl-MspSI6wTWrRABh5OBk-E9iLjgm53hhVoJjhvcsravCRVGKD05A3hXQbVhS2XvD_A/s16000/home.webp');
+background-repeat: no-repeat;
+background-position: center; 
+background-size: cover;
+height: 800px;}
+.intro {
+background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSrZEo2ffPFhu_eaG81_EzWfkC4rGRvkGavcFAUb8DrDz8fYu7YUSRQKNp-Z0O8gx-qqptDhmzgLkDL72qF49LrnYluJXf-CsnyruHwuoJ31PXUsKJ1oStBVRxp7m67SKoK7m_rKDqPVfkuF9maAOIj-jwqSR1yCTPwuM9XWh92Hl9RoM72umYIe3kkg/s16000/intro.webp');
+background-repeat: no-repeat;
+background-position: center; 
+background-size: cover;
+height: 800px;}
+.fitur {
+background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYbCtfO0JbcTFGai87WQoenD6gDAg5CCiKQ17F92BzpSfYz4GYwVCZwKiXDHoWAbxit99HNElsjS92_uA7jMxjxqQT8FOv-jeHQG3dL1fMPr3kE7MK1g7Um_-zuvS3BuQr0z03wHvVPuuPElO3vBIcuRbzu40QCgGPafa6eMlJ0Y3aVyIQ1FHpftqqmA/s16000/fitur.webp');
+background-repeat: no-repeat;
+background-position: center; 
+background-size: cover;
+height: 800px;}
+.list {
+background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnuUcWnDSUa6RZGez6726g8h8tjwtdORFB9R3PBFKJfKL9Pfmmacw-o4kBcy_CrJXXmYoegOaNmocq13H8smtT6fwOBFRy73cVSbK8zeb81gNZGA-ryaELm9i6D4k27yw3mSDb14s8346531V1UBTKiDQFP4omkn_yGKZmSdhZl9GVKDRKubX6UvU7JQ/s16000/services.webp');
+background-repeat: no-repeat;
+background-position: center; 
+background-size: cover;
+height: 800px;}
+.favorit {
+background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYGDY-EPBsb3ZCrT3DOt_jtxbIyq4kpFnI1_LFbumHFcwoEe0ZvFLifSD-mRfmcB937gq5TH3rn706vY3Py_IBkJw1MMQcKAMRA8gDRrN2Tg5utDei8uBVYsc3z_ttj9Mv3x8yEYk-eBF1CGZNKhEmgcOOS3OqBvsExjWTrSTaKon4I1aiP6kCU409Nw/s16000/favorite.webp');
+background-repeat: no-repeat;
+background-position: center; 
+background-size: cover;
+height: 800px;}
+.content {
+background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgikU-7g_8r9K5Uz2h5H2Y5uLm3HXzjwiqOrl-wTDtd2sGh-a8GygCLoCmwDEqBTCnP3Xv5-i-YBwMN0m-okYxHD7sgt1tJy5uFcYJ5xoFOw55t-sfVcqrbQ_PheoYwMa5dk3O4y6U3d-VO6YX2pkOF1e2RSYP0Ok5Jr3C_vNuTUMRgR94ToGkQjDG6oQ/s16000/footer.webp');
+background-repeat: no-repeat;
+background-position: center; 
+background-size: cover;
+color:white;
+height: auto;}
+.footer {
+background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp0FhtmyeMIrWMeb9qmXfXqr91uYglzXYyeGMoQF-cejYP-vp78N53MZvfjy5kYWckkIaEzHMVl4-6OSqb9xd3FzCAiihD8xIxnpIZJJCGKihpyqOYBk8n7u6E2AWphDmT2xAMYCrkKbY6ZDuWALyBQOemHHqb-GAOHfXgBw1RQXfqQIQZP_merqfxBg/s16000/contact.webp');
+background-repeat: no-repeat;
+background-position: center; 
+background-size: cover;
+height: auto;}
+a {color: white; text-decoration: none;}
+h1,h2,h3,.sign {font-family: 'Permanent Marker', cursive;}
+.nav-link,.copy {font-size: 18px;}
